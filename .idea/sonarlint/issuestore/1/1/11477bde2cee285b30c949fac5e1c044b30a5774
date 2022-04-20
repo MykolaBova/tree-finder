@@ -1,0 +1,19 @@
+
+t
+java:S2142J"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(Ã©İ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ÍÃÆ˜ıÿÿÿÿ
+L
+java:S2696?"6Make the enclosing method "static" or remove this set.(Ï‚’š
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(°„ïÛøÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(öõÈÿÿÿÿÿ
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(» °Úşÿÿÿÿ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(æÏ¼ìüÿÿÿÿ
+M	java:S106{"9Replace this use of System.out or System.err by a logger.( ¶çX
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+P
+java:S1141A"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ

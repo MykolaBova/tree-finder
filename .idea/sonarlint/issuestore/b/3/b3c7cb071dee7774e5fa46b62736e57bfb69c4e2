@@ -1,0 +1,7 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Òô’Ùþÿÿÿÿ
+T
+java:S1117"9Rename "depth" which hides the field declared at line 11.(·Ã…öüÿÿÿÿ
+F
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð1
